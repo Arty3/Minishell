@@ -1,0 +1,10 @@
+*.o
+*.lo
+*.a
+*.so
+*.so.1
+
+!bin/
+!bin/**
+
+minishell
