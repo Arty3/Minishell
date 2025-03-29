@@ -119,8 +119,8 @@ Running minishell is as easy as:
 
 From there, use it as you would a regular shell.
 
-Note that extensive syntax features like `\` or `;`<br>
-as these are strictly forbidden by the subject.
+Note that extensive syntax features like `\` or `;` are not<br>
+implemented as these are strictly forbidden by the subject.
 
 For the implemented features, the behavior replicates that of Bash exactly.
 
