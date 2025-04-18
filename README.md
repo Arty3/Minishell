@@ -21,7 +21,7 @@ We completed the bonus section as well, though, the subject requires us to split
 
 I removed the norminette-required banners. These are banners which allows the school to view who created and last updated a file. They're required by norminette in order to pass. I stripped these from the project for the sake of privacy.
 
-My [Libft](https://github.com/DontCallMeLuca/Libft) was used for this project. I added it as a git submodule, it could be that some minor things have changed, since it received updates since this project was concluded.
+My [Libft](https://github.com/Arty3/Libft) was used for this project. I added it as a git submodule, it could be that some minor things have changed, since it received updates since this project was concluded.
 
 #### This project is not maintained.
 
@@ -56,7 +56,7 @@ download a precompiled version here:
 
 | Release | Binary |
 |:--------|:-------|
-| 1.0 | [minishell](https://github.com/DontCallMeLuca/Minishell/releases/download/v1.0/minishell) |
+| 1.0 | [minishell](https://github.com/Arty3/Minishell/releases/download/v1.0/minishell) |
 
 ### 🌐 Requirements
 
@@ -70,7 +70,7 @@ download a precompiled version here:
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/DontCallMeLuca/Minishell.git
+git clone https://github.com/Arty3/Minishell.git
 ```
 
 2. cd into it:
